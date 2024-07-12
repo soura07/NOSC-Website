@@ -1,3 +1,11 @@
+## Verified Certificate
+
+<h2> I am proud to share my verified certificate for contributions to open source projects. You can view and verify my certificate using the following link: </h2>
+
+![image](https://github.com/user-attachments/assets/c762ebed-bb95-433d-a8ac-a42110cd78ad)
+[link](https://certificate.givemycertificate.com/c/784553db-da88-4bfe-8dd3-a4a83715f097).
+
+
 # NITRR Open Source Community (NOSC)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
